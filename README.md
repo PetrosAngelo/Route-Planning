@@ -17,7 +17,7 @@
 Given the positions of our object and by predicting its next positions at every moment, using the Kalman Filter, we can conclude which clothoid curve is the closest to the object's most possible route.
 
 <p align="center">
-  <img src="https://github.com/PetrosAngelo/Route-Planning/blob/main/Screencshot/2ndPic.png" alt="Simulation Results">
+  <img src="https://github.com/PetrosAngelo/Route-Planning/blob/main/Screencshot/3rdPic.png" alt="Simulation Results">
 </p>
 
   The core objective of this project is to enhance the overall safety of autonomous vehicles by empowering them to make informed decisions based on a nuanced understanding of their surroundings. To validate the effectiveness of our approach, we calculate and extract the error of our estimations which is being declined to zero during the progress of the test.
