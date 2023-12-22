@@ -8,4 +8,7 @@ In pursuit of advancing road safety, the automotive industry is rapidly evolving
 
 This repository introduces a novel approach to address this critical aspect of autonomous driving—vehicle motion prediction. Our methodology leverages a synergistic combination of Kalman Filter, the YOLO library and Clothoids. The YOLO library plays a crucial role in identifying diverse traffic participants within the driving scene, while the fusion of Kalman Filters and Clothoids facilitates the precise prediction of their future motions.
 
+                                                                                      https://github.com/PetrosAngelo/Route-Planning/blob/main/Screencshot/1stPic.png
+
+
 The core objective of this project is to enhance the overall safety of autonomous vehicles by empowering them to make informed decisions based on a nuanced understanding of their surroundings. To validate the effectiveness of our approach, we present results from extensive simulated experiments, demonstrating the robustness and efficiency of the proposed solution in predicting the intricate dynamics of traffic scenarios.
